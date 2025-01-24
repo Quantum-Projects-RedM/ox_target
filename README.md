@@ -1,6 +1,11 @@
 <div align='center'><h2><a href='https://overextended.github.io/docs/ox_target/'>Documentation</a></h2></div>
 
-## ox_target
+## ox_target Redm
+
+Preview:
+
+![image](https://github.com/user-attachments/assets/04165f6b-87a3-4a1e-877c-ab3b496c1ec4)
+
 
 A performant and flexible standalone "third-eye" targeting resource, with additional functionality when using ox_core, esx, or qb-core.
 
